@@ -1,5 +1,7 @@
 # Self-CO2-Visualization
-Just a simple visualization that I use tableau to plot everything 
+Just a simple visualization that I use tableau to plot everything
+
+You can select specific year to see CO2 emission around the world in that year. Also you can get detail information of a country by clicking to it on the map.
 
 Feel free to download if you need.
 
