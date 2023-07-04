@@ -10,3 +10,4 @@ Tableau public link : https://public.tableau.com/app/profile/nhat.le4600/viz/Co2
 <div class='tableauPlaceholder' id='viz1683890572986' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Co2_project_16837883157330&#47;Dashboard1&#47;1_rss.png' style='border: none' /  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 ![alt text](https://drive.google.com/file/d/1KzedpNRbOkPJq892FnF4s6oGwwe2B2DK/view?usp=sharing)
+![result](https://github.com/baonhat1802/Self-CO2-Visualization/assets/74585577/9f06ee8e-cc62-4bac-ac3b-123a7b5880e3)
