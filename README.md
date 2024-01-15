@@ -11,6 +11,7 @@ Tableau public link : https://public.tableau.com/app/profile/nhat.le4600/viz/Co2
 
 ![result](https://github.com/baonhat1802/Self-CO2-Visualization/assets/74585577/9f06ee8e-cc62-4bac-ac3b-123a7b5880e3)
 
-![image](https://github.com/baonhat1802/Self-CO2-Visualization/assets/74585577/89d589df-aee0-45b3-9c55-3dfd63ff6a9e)
+![image](https://github.com/baonhat1802/Self-CO2-Visualization/assets/74585577/3d4366ea-d265-4ea1-a3e7-b201a5008c4f)
+
 
 
